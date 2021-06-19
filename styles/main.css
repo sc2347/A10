@@ -1,0 +1,41 @@
+/* the styles for the elements */
+body {
+	font-family: Arial, Helvetica, sans-serif;
+    font-size: 100%;
+}
+
+/* the styles for the header */
+header img {
+	float: left;
+}
+
+h2 {
+		text-indent: 30px;
+		color: #800000;
+		font-size: 170%;
+	}
+	
+h3 {
+		text-indent: 30px;
+		font-style: italic;
+		font-size: 130%;
+	}
+	
+
+
+/* the styles for the section */
+main {
+	clear: left;
+	h1 {font-size: 130%}
+	h2 {color: #800000;font-size: 130%}
+	h3 {font-size: 105%}
+	p {text-align: center}
+}
+a:hover {
+		font-style: italic;}
+
+/* the styles for the footer */
+
+ footer {
+    text-align: center
+	}
